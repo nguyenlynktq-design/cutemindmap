@@ -1,0 +1,5 @@
+{
+  "name": "CuteMind AI - Adorable Infographic Maker",
+  "description": "Create hand-drawn, child-friendly educational mindmaps and infographics using AI. Perfect for parents, teachers, and creative storytellers.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
